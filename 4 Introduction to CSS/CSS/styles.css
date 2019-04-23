@@ -1,0 +1,23 @@
+  body {
+    background-color: #EAF6F6;
+  }
+
+  hr {
+    border-style: none;
+    width: 5%;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+  }
+
+  .checked {
+    color: orange;
+  }
+
+  h1 {
+    color: #66BFBF;
+  }
+
+  h3 {
+    color: #66BFBF;
+  }
