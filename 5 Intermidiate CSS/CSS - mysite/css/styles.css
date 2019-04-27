@@ -1,10 +1,22 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: 'Merriweather', serif;
 }
 
 h1 {
-  margin-top : 0px;
+  margin-top: 0px; 
+  font-family: 'Sacramento', cursive;
+}
+
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3
+{
+  font-family: 'Montserrat', sans-serif;
 }
 
 .top_container {
@@ -28,13 +40,13 @@ h1 {
 .topcloud
 {
   position: absolute;
-  right : 20%;
-  top : 50px; 
+  right : 300px;
+  top : 50px;
 }
 
 .bottomcloud
 {
   position: absolute;
-  left : 20%;
-  bottom : 300px; 
+  left : 300px;
+  bottom : 300px;
 }
